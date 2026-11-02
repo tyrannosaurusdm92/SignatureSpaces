@@ -1,0 +1,5720 @@
+        {
+          "hex": "#E9F2FB",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 8
+        }
+      ]
+    },
+    "--os-cyan-porcelain": {
+      "hexCodes": [
+        "#EEF4FB"
+      ],
+      "references": [
+        {
+          "hex": "#EEF4FB",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 7
+        },
+        {
+          "hex": "#EEF4FB",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 7
+        }
+      ]
+    },
+    "--os-cyan-void": {
+      "hexCodes": [
+        "#001010"
+      ],
+      "references": [
+        {
+          "hex": "#001010",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 11
+        },
+        {
+          "hex": "#001010",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 11
+        }
+      ]
+    },
+    "--os-cyan-white": {
+      "hexCodes": [
+        "#F3F7FC"
+      ],
+      "references": [
+        {
+          "hex": "#F3F7FC",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 6
+        },
+        {
+          "hex": "#F3F7FC",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 6
+        }
+      ]
+    },
+    "--os-ink": {
+      "hexCodes": [
+        "#000000",
+        "#6E8491",
+        "#9BAEBC",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#9BAEBC",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        },
+        {
+          "hex": "#6E8491",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        }
+      ]
+    },
+    "--os-line": {
+      "hexCodes": [
+        "#000000",
+        "#6E8491",
+        "#9BAEBC",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#9BAEBC",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        },
+        {
+          "hex": "#6E8491",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        }
+      ]
+    },
+    "--os-master-black": {
+      "hexCodes": [
+        "#131113",
+        "#B51928",
+        "#D4AF37",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#131113",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#B51928",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#D4AF37",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        }
+      ]
+    },
+    "--os-master-gold": {
+      "hexCodes": [
+        "#131113",
+        "#B51928",
+        "#D4AF37",
+        "#DF1535",
+        "#F7DF93",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#131113",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#B51928",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#D4AF37",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#DF1535",
+          "file": "style/ourspace-unified-polish.css",
+          "line": 83
+        },
+        {
+          "hex": "#F7DF93",
+          "file": "style/ourspace-unified-polish.css",
+          "line": 83
+        }
+      ]
+    },
+    "--os-master-ink": {
+      "hexCodes": [
+        "#131113",
+        "#B51928",
+        "#D4AF37",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#131113",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#B51928",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#D4AF37",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        }
+      ]
+    },
+    "--os-master-red": {
+      "hexCodes": [
+        "#131113",
+        "#B51928",
+        "#D4AF37",
+        "#DF1535",
+        "#F7DF93",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#131113",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#B51928",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#D4AF37",
+          "file": "style/ourspace-floating-navigation.css",
+          "line": 2
+        },
+        {
+          "hex": "#DF1535",
+          "file": "style/ourspace-unified-polish.css",
+          "line": 83
+        },
+        {
+          "hex": "#F7DF93",
+          "file": "style/ourspace-unified-polish.css",
+          "line": 83
+        }
+      ]
+    },
+    "--os-pale-aqua": {
+      "hexCodes": [
+        "#B1D0F0"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 9
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 9
+        }
+      ]
+    },
+    "--os-retro-accent": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-final-household.css",
+          "line": 1484
+        }
+      ]
+    },
+    "--os-retro-border-dark": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-final-household.css",
+          "line": 1034
+        }
+      ]
+    },
+    "--os-retro-border-light": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-household.css",
+          "line": 1032
+        }
+      ]
+    },
+    "--os-retro-border-mid": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-household.css",
+          "line": 1033
+        }
+      ]
+    },
+    "--os-retro-button": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-household.css",
+          "line": 1486
+        }
+      ]
+    },
+    "--os-retro-focus": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-final-household.css",
+          "line": 1489
+        }
+      ]
+    },
+    "--os-retro-heading": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-household.css",
+          "line": 1487
+        }
+      ]
+    },
+    "--os-retro-link": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-household.css",
+          "line": 1488
+        }
+      ]
+    },
+    "--os-retro-page-bg": {
+      "hexCodes": [
+        "#D5E8FB"
+      ],
+      "references": [
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-final-household.css",
+          "line": 1479
+        }
+      ]
+    },
+    "--os-retro-panel": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-household.css",
+          "line": 1480
+        }
+      ]
+    },
+    "--os-retro-panel-text": {
+      "hexCodes": [
+        "#000000"
+      ],
+      "references": [
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-final-household.css",
+          "line": 1481
+        }
+      ]
+    },
+    "--os-retro-secondary": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-household.css",
+          "line": 1485
+        }
+      ]
+    },
+    "--os-retro-titlebar": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-household.css",
+          "line": 1482
+        }
+      ]
+    },
+    "--os-retro-titlebar-text": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-household.css",
+          "line": 1483
+        }
+      ]
+    },
+    "--os-shared-glow": {
+      "hexCodes": [
+        "#DF15353D",
+        "#DF153566",
+        "#DF15356B"
+      ],
+      "references": [
+        {
+          "hex": "#DF153566",
+          "file": "style/ourspace-unified-polish.css",
+          "line": 10
+        },
+        {
+          "hex": "#DF15356B",
+          "file": "style/ourspace-unified-polish.css",
+          "line": 10
+        },
+        {
+          "hex": "#DF15353D",
+          "file": "style/ourspace-unified-polish.css",
+          "line": 10
+        }
+      ]
+    },
+    "--os-soft": {
+      "hexCodes": [
+        "#F3F7FC"
+      ],
+      "references": [
+        {
+          "hex": "#F3F7FC",
+          "file": "style/ourspace-communication-source.css",
+          "line": 41
+        }
+      ]
+    },
+    "--os-store-height": {
+      "hexCodes": [
+        "#243950",
+        "#28629024",
+        "#97BBDC"
+      ],
+      "references": [
+        {
+          "hex": "#97BBDC",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        },
+        {
+          "hex": "#28629024",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        }
+      ]
+    },
+    "--os-store-left": {
+      "hexCodes": [
+        "#243950",
+        "#28629024",
+        "#97BBDC"
+      ],
+      "references": [
+        {
+          "hex": "#97BBDC",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        },
+        {
+          "hex": "#28629024",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        }
+      ]
+    },
+    "--os-store-top": {
+      "hexCodes": [
+        "#243950",
+        "#28629024",
+        "#97BBDC"
+      ],
+      "references": [
+        {
+          "hex": "#97BBDC",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        },
+        {
+          "hex": "#28629024",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        }
+      ]
+    },
+    "--os-store-width": {
+      "hexCodes": [
+        "#243950",
+        "#28629024",
+        "#97BBDC"
+      ],
+      "references": [
+        {
+          "hex": "#97BBDC",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        },
+        {
+          "hex": "#28629024",
+          "file": "style/ourspace-store-layout.css",
+          "line": 10
+        }
+      ]
+    },
+    "--os-surface": {
+      "hexCodes": [
+        "#000000",
+        "#6E8491",
+        "#9BAEBC",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#9BAEBC",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 2
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        },
+        {
+          "hex": "#6E8491",
+          "file": "style/ourspace-color-foundation.css",
+          "line": 3
+        }
+      ]
+    },
+    "--os-teal": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-communication-source.css",
+          "line": 37
+        }
+      ]
+    },
+    "--os-white": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-communication-source.css",
+          "line": 39
+        }
+      ]
+    },
+    "--os-yellow": {
+      "hexCodes": [
+        "#F3F7FC"
+      ],
+      "references": [
+        {
+          "hex": "#F3F7FC",
+          "file": "style/ourspace-communication-source.css",
+          "line": 38
+        }
+      ]
+    },
+    "--oscom-frame-height": {
+      "hexCodes": [
+        "#23558824",
+        "#A3C1DD",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#A3C1DD",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        },
+        {
+          "hex": "#23558824",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        }
+      ]
+    },
+    "--oscom-frame-left": {
+      "hexCodes": [
+        "#23558824",
+        "#A3C1DD",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#A3C1DD",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        },
+        {
+          "hex": "#23558824",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        }
+      ]
+    },
+    "--oscom-frame-top": {
+      "hexCodes": [
+        "#23558824",
+        "#A3C1DD",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#A3C1DD",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        },
+        {
+          "hex": "#23558824",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        }
+      ]
+    },
+    "--oscom-frame-width": {
+      "hexCodes": [
+        "#23558824",
+        "#A3C1DD",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#A3C1DD",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        },
+        {
+          "hex": "#23558824",
+          "file": "style/ourspace-communication-layout.css",
+          "line": 7
+        }
+      ]
+    },
+    "--osm-bg": {
+      "hexCodes": [
+        "#D5E8FB"
+      ],
+      "references": [
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1439
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-store-william.css",
+          "line": 620
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 620
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1439
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/page-audio.css",
+          "line": 458
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/page-feed.css",
+          "line": 1586
+        }
+      ]
+    },
+    "--osm-bg-2": {
+      "hexCodes": [
+        "#E9F2FC"
+      ],
+      "references": [
+        {
+          "hex": "#E9F2FC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1440
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/ourspace-store-william.css",
+          "line": 621
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 621
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1440
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/page-audio.css",
+          "line": 459
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/page-feed.css",
+          "line": 1587
+        }
+      ]
+    },
+    "--osm-cyan": {
+      "hexCodes": [
+        "#B1D0F0"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1446
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-william.css",
+          "line": 627
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 627
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1446
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/page-audio.css",
+          "line": 465
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/page-feed.css",
+          "line": 1593
+        }
+      ]
+    },
+    "--osm-danger": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/page-audio.css",
+          "line": 10
+        }
+      ]
+    },
+    "--osm-good": {
+      "hexCodes": [
+        "#B1D0F0"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/page-audio.css",
+          "line": 11
+        }
+      ]
+    },
+    "--osm-line": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1445
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 626
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 626
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1445
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-audio.css",
+          "line": 464
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-feed.css",
+          "line": 1592
+        }
+      ]
+    },
+    "--osm-muted": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1444
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-william.css",
+          "line": 625
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 625
+        },
+        {
+          "hex": "#243950",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1444
+        },
+        {
+          "hex": "#243950",
+          "file": "style/page-audio.css",
+          "line": 463
+        },
+        {
+          "hex": "#243950",
+          "file": "style/page-feed.css",
+          "line": 1591
+        }
+      ]
+    },
+    "--osm-orange": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1447
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 628
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 628
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1447
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-audio.css",
+          "line": 466
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-feed.css",
+          "line": 1594
+        }
+      ]
+    },
+    "--osm-panel": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1441
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 622
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 622
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1441
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-audio.css",
+          "line": 460
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-feed.css",
+          "line": 1588
+        }
+      ]
+    },
+    "--osm-panel-2": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1442
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 623
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 623
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1442
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-audio.css",
+          "line": 461
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-feed.css",
+          "line": 1589
+        }
+      ]
+    },
+    "--osm-text": {
+      "hexCodes": [
+        "#000000"
+      ],
+      "references": [
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1443
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-william.css",
+          "line": 624
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 624
+        },
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1443
+        },
+        {
+          "hex": "#000000",
+          "file": "style/page-audio.css",
+          "line": 462
+        },
+        {
+          "hex": "#000000",
+          "file": "style/page-feed.css",
+          "line": 1590
+        }
+      ]
+    },
+    "--ospv-bg": {
+      "hexCodes": [
+        "#D5E8FB"
+      ],
+      "references": [
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1450
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-store-william.css",
+          "line": 631
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 631
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1450
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/page-audio.css",
+          "line": 469
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/page-feed.css",
+          "line": 1597
+        }
+      ]
+    },
+    "--ospv-bg-2": {
+      "hexCodes": [
+        "#E9F2FC"
+      ],
+      "references": [
+        {
+          "hex": "#E9F2FC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1451
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/ourspace-store-william.css",
+          "line": 632
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 632
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1451
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/page-audio.css",
+          "line": 470
+        },
+        {
+          "hex": "#E9F2FC",
+          "file": "style/page-feed.css",
+          "line": 1598
+        }
+      ]
+    },
+    "--ospv-cyan": {
+      "hexCodes": [
+        "#B1D0F0"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1457
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-william.css",
+          "line": 638
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 638
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1457
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/page-audio.css",
+          "line": 476
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/page-feed.css",
+          "line": 1604
+        }
+      ]
+    },
+    "--ospv-danger": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/page-visual.css",
+          "line": 10
+        }
+      ]
+    },
+    "--ospv-line": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1456
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 637
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 637
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1456
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-audio.css",
+          "line": 475
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-feed.css",
+          "line": 1603
+        }
+      ]
+    },
+    "--ospv-muted": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1455
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-william.css",
+          "line": 636
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 636
+        },
+        {
+          "hex": "#243950",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1455
+        },
+        {
+          "hex": "#243950",
+          "file": "style/page-audio.css",
+          "line": 474
+        },
+        {
+          "hex": "#243950",
+          "file": "style/page-feed.css",
+          "line": 1602
+        }
+      ]
+    },
+    "--ospv-orange": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1458
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 639
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 639
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1458
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-audio.css",
+          "line": 477
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-feed.css",
+          "line": 1605
+        }
+      ]
+    },
+    "--ospv-panel": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1452
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 633
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 633
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1452
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-audio.css",
+          "line": 471
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-feed.css",
+          "line": 1599
+        }
+      ]
+    },
+    "--ospv-panel-2": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1453
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 634
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 634
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1453
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-audio.css",
+          "line": 472
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-feed.css",
+          "line": 1600
+        }
+      ]
+    },
+    "--ospv-text": {
+      "hexCodes": [
+        "#000000"
+      ],
+      "references": [
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1454
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-william.css",
+          "line": 635
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 635
+        },
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1454
+        },
+        {
+          "hex": "#000000",
+          "file": "style/page-audio.css",
+          "line": 473
+        },
+        {
+          "hex": "#000000",
+          "file": "style/page-feed.css",
+          "line": 1601
+        }
+      ]
+    },
+    "--outline": {
+      "hexCodes": [
+        "#28150B33",
+        "#8A1930",
+        "#A70022",
+        "#DF1535"
+      ],
+      "references": [
+        {
+          "hex": "#8A1930",
+          "file": "style/bulletin_board_style.css",
+          "line": 692
+        },
+        {
+          "hex": "#DF1535",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#A70022",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#8A1930",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#28150B33",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        }
+      ]
+    },
+    "--overlay-bg-rgba": {
+      "hexCodes": [
+        "#FFFFFF40"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF40",
+          "file": "style/page-feed.css",
+          "line": 1052
+        }
+      ]
+    },
+    "--page": {
+      "hexCodes": [
+        "#D5E8FB",
+        "#E5E5E5"
+      ],
+      "references": [
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1700
+        },
+        {
+          "hex": "#E5E5E5",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4260
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-store-william.css",
+          "line": 803
+        },
+        {
+          "hex": "#E5E5E5",
+          "file": "style/profile_modules_style.css",
+          "line": 21
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 803
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1700
+        }
+      ]
+    },
+    "--page-bg": {
+      "hexCodes": [
+        "#E5E5E5"
+      ],
+      "references": [
+        {
+          "hex": "#E5E5E5",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4261
+        },
+        {
+          "hex": "#E5E5E5",
+          "file": "style/profile_modules_style.css",
+          "line": 22
+        },
+        {
+          "hex": "#E5E5E5",
+          "file": "style/onyx_widget_style.css",
+          "line": 5614
+        },
+        {
+          "hex": "#E5E5E5",
+          "file": "style/ourspace-dbt-standalone.css",
+          "line": 2215
+        },
+        {
+          "hex": "#E5E5E5",
+          "file": "style/ourspace-final-skills.css",
+          "line": 1743
+        },
+        {
+          "hex": "#E5E5E5",
+          "file": "style/links_module_style.css",
+          "line": 22
+        }
+      ]
+    },
+    "--pale": {
+      "hexCodes": [
+        "#003399",
+        "#1C283C",
+        "#6699CC",
+        "#B1D0F0",
+        "#D12F30",
+        "#D5E8FB",
+        "#E3621C",
+        "#FFCC99"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#FFCC99",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#E3621C",
+          "file": "style/site.css",
+          "line": 1
+        }
+      ]
+    },
+    "--panel": {
+      "hexCodes": [
+        "#000000",
+        "#003399",
+        "#092947FA",
+        "#13263E20",
+        "#1C283C",
+        "#1C2C43",
+        "#213954",
+        "#243950",
+        "#336699",
+        "#56697C",
+        "#6699CC",
+        "#B1D0F0",
+        "#D0DEEB",
+        "#D12F30",
+        "#D5E8FB",
+        "#E3621C",
+        "#F8FBFF",
+        "#FFCC99",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#FFCC99",
+          "file": "style/site.css",
+          "line": 1
+        },
+        {
+          "hex": "#E3621C",
+          "file": "style/site.css",
+          "line": 1
+        }
+      ]
+    },
+    "--panel-bg": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1414
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1705
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4262
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 595
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 808
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/profile_modules_style.css",
+          "line": 23
+        }
+      ]
+    },
+    "--panel-lightest": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 26
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 56
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1562
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2467
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 707
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 707
+        }
+      ]
+    },
+    "--panel-soft": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1415
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1706
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 596
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 809
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 596
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 809
+        }
+      ]
+    },
+    "--panel2": {
+      "hexCodes": [
+        "#243950",
+        "#253850",
+        "#336699",
+        "#E7EEF8",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 3335
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4031
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-william.css",
+          "line": 3
+        },
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-store-william.css",
+          "line": 473
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-william.css",
+          "line": 483
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-store-william.css",
+          "line": 496
+        }
+      ]
+    },
+    "--panel3": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 3336
+        },
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4032
+        },
+        {
+          "hex": "#243950",
+          "file": "style/onyx_widget_style.css",
+          "line": 4454
+        },
+        {
+          "hex": "#243950",
+          "file": "style/onyx_widget_style.css",
+          "line": 5329
+        }
+      ]
+    },
+    "--paper": {
+      "hexCodes": [
+        "#000000",
+        "#092947",
+        "#102C3E",
+        "#144E88",
+        "#16818F",
+        "#182F41",
+        "#1A2E4422",
+        "#1D1A16",
+        "#585145",
+        "#A5E4EC",
+        "#F6D16A",
+        "#F9F0DF",
+        "#FBF8F0",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1416
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1629
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 597
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 756
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 597
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 756
+        }
+      ]
+    },
+    "--primary": {
+      "hexCodes": [
+        "#003399",
+        "#095298",
+        "#1267B6",
+        "#157DE0",
+        "#173E6C",
+        "#365FB8",
+        "#D5E8FB"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2626
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2647
+        },
+        {
+          "hex": "#1267B6",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#095298",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#173E6C",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#157DE0",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3227
+        }
+      ]
+    },
+    "--primary-bg": {
+      "hexCodes": [
+        "#B1D0F0"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1428
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1729
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-william.css",
+          "line": 609
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-william.css",
+          "line": 832
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 609
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 832
+        }
+      ]
+    },
+    "--primary-border": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1731
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 834
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 834
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1731
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-audio.css",
+          "line": 664
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-feed.css",
+          "line": 1792
+        }
+      ]
+    },
+    "--primary-color": {
+      "hexCodes": [
+        "#003399"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4254
+        },
+        {
+          "hex": "#003399",
+          "file": "style/profile_modules_style.css",
+          "line": 15
+        },
+        {
+          "hex": "#003399",
+          "file": "style/onyx_widget_style.css",
+          "line": 5607
+        },
+        {
+          "hex": "#003399",
+          "file": "style/links_module_style.css",
+          "line": 15
+        }
+      ]
+    },
+    "--primary-dark": {
+      "hexCodes": [
+        "#003399",
+        "#095298",
+        "#0B2852",
+        "#0C5EA8",
+        "#1267B6",
+        "#173E6C",
+        "#183F68"
+      ],
+      "references": [
+        {
+          "hex": "#0B2852",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2628
+        },
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2649
+        },
+        {
+          "hex": "#1267B6",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#095298",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#173E6C",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#0C5EA8",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3228
+        }
+      ]
+    },
+    "--primary-fg": {
+      "hexCodes": [
+        "#000000"
+      ],
+      "references": [
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1429
+        },
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1730
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-william.css",
+          "line": 610
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-william.css",
+          "line": 833
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 610
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 833
+        }
+      ]
+    },
+    "--primary-hover": {
+      "hexCodes": [
+        "#095298",
+        "#0C5EA8",
+        "#1267B6",
+        "#173E6C",
+        "#183F68",
+        "#336699",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2627
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2648
+        },
+        {
+          "hex": "#1267B6",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#095298",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#173E6C",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3196
+        },
+        {
+          "hex": "#0C5EA8",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3228
+        }
+      ]
+    },
+    "--profile-dark": {
+      "hexCodes": [
+        "#10243D",
+        "#12528C",
+        "#163D65",
+        "#1678DA",
+        "#21467C",
+        "#2386E21F",
+        "#3066BC",
+        "#4D7ECC1C",
+        "#75B9F7",
+        "#A2C7F0",
+        "#D5E8FB",
+        "#EDF5FF"
+      ],
+      "references": [
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2632
+        },
+        {
+          "hex": "#10243D",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2653
+        },
+        {
+          "hex": "#1678DA",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#75B9F7",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#12528C",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#2386E21F",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        }
+      ]
+    },
+    "--profile-primary": {
+      "hexCodes": [
+        "#12528C",
+        "#157DE0",
+        "#1678DA",
+        "#21467C",
+        "#2386E21F",
+        "#3066BC",
+        "#336699",
+        "#365FB8",
+        "#4D7ECC1C",
+        "#75B9F7",
+        "#A2C7F0",
+        "#D5E8FB",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2630
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2651
+        },
+        {
+          "hex": "#1678DA",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#75B9F7",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#12528C",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#2386E21F",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        }
+      ]
+    },
+    "--profile-secondary": {
+      "hexCodes": [
+        "#003399",
+        "#12528C",
+        "#1678DA",
+        "#21467C",
+        "#2386E21F",
+        "#3066BC",
+        "#4D7ECC1C",
+        "#6699CC",
+        "#72B8EE",
+        "#75B9F7",
+        "#97BCE7",
+        "#A2C7F0"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2631
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2652
+        },
+        {
+          "hex": "#1678DA",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#75B9F7",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#12528C",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        },
+        {
+          "hex": "#2386E21F",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3201
+        }
+      ]
+    },
+    "--profile-soft": {
+      "hexCodes": [
+        "#00FFFF14",
+        "#12528C",
+        "#163D65",
+        "#1678DA",
+        "#1E90FF1A",
+        "#21467C",
+        "#2386E21F",
+        "#3066BC",
+        "#3366991F",
+        "#4D7ECC1C",
+        "#6699CC1A",
+        "#75B9F7",
+        "#A2C7F0",
+        "#B1D0F026",
+        "#EDF5FF"
+      ],
+      "references": [
+        {
+          "hex": "#00FFFF14",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 60
+        },
+        {
+          "hex": "#1E90FF1A",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 93
+        },
+        {
+          "hex": "#6699CC1A",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 101
+        },
+        {
+          "hex": "#00FFFF14",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 109
+        },
+        {
+          "hex": "#3366991F",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2633
+        },
+        {
+          "hex": "#B1D0F026",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2654
+        }
+      ]
+    },
+    "--ra-black": {
+      "hexCodes": [
+        "#121819",
+        "#1D1914",
+        "#D1FDFF"
+      ],
+      "references": [
+        {
+          "hex": "#D1FDFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#121819",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#1D1914",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#D1FDFF",
+          "file": "style/shell.css",
+          "line": 403
+        },
+        {
+          "hex": "#121819",
+          "file": "style/shell.css",
+          "line": 403
+        },
+        {
+          "hex": "#1D1914",
+          "file": "style/shell.css",
+          "line": 403
+        }
+      ]
+    },
+    "--ra-blue": {
+      "hexCodes": [
+        "#00FFFF",
+        "#1E90FF",
+        "#5A8580"
+      ],
+      "references": [
+        {
+          "hex": "#5A8580",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#00FFFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#1E90FF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#5A8580",
+          "file": "style/shell.css",
+          "line": 401
+        },
+        {
+          "hex": "#00FFFF",
+          "file": "style/shell.css",
+          "line": 401
+        },
+        {
+          "hex": "#1E90FF",
+          "file": "style/shell.css",
+          "line": 401
+        }
+      ]
+    },
+    "--ra-castle": {
+      "hexCodes": [
+        "#394240",
+        "#C09A6C"
+      ],
+      "references": [
+        {
+          "hex": "#394240",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4961
+        },
+        {
+          "hex": "#C09A6C",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4961
+        },
+        {
+          "hex": "#394240",
+          "file": "style/shell.css",
+          "line": 405
+        },
+        {
+          "hex": "#C09A6C",
+          "file": "style/shell.css",
+          "line": 405
+        }
+      ]
+    },
+    "--ra-copper": {
+      "hexCodes": [
+        "#394240",
+        "#C09A6C"
+      ],
+      "references": [
+        {
+          "hex": "#394240",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4961
+        },
+        {
+          "hex": "#C09A6C",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4961
+        },
+        {
+          "hex": "#394240",
+          "file": "style/shell.css",
+          "line": 405
+        },
+        {
+          "hex": "#C09A6C",
+          "file": "style/shell.css",
+          "line": 405
+        }
+      ]
+    },
+    "--ra-cyan": {
+      "hexCodes": [
+        "#00FFFF",
+        "#1E90FF",
+        "#5A8580"
+      ],
+      "references": [
+        {
+          "hex": "#5A8580",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#00FFFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#1E90FF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#5A8580",
+          "file": "style/shell.css",
+          "line": 401
+        },
+        {
+          "hex": "#00FFFF",
+          "file": "style/shell.css",
+          "line": 401
+        },
+        {
+          "hex": "#1E90FF",
+          "file": "style/shell.css",
+          "line": 401
+        }
+      ]
+    },
+    "--ra-ice": {
+      "hexCodes": [
+        "#121819",
+        "#1D1914",
+        "#D1FDFF"
+      ],
+      "references": [
+        {
+          "hex": "#D1FDFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#121819",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#1D1914",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#D1FDFF",
+          "file": "style/shell.css",
+          "line": 403
+        },
+        {
+          "hex": "#121819",
+          "file": "style/shell.css",
+          "line": 403
+        },
+        {
+          "hex": "#1D1914",
+          "file": "style/shell.css",
+          "line": 403
+        }
+      ]
+    },
+    "--ra-ink": {
+      "hexCodes": [
+        "#121819",
+        "#1D1914",
+        "#D1FDFF"
+      ],
+      "references": [
+        {
+          "hex": "#D1FDFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#121819",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#1D1914",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4959
+        },
+        {
+          "hex": "#D1FDFF",
+          "file": "style/shell.css",
+          "line": 403
+        },
+        {
+          "hex": "#121819",
+          "file": "style/shell.css",
+          "line": 403
+        },
+        {
+          "hex": "#1D1914",
+          "file": "style/shell.css",
+          "line": 403
+        }
+      ]
+    },
+    "--ra-lime": {
+      "hexCodes": [
+        "#35DB35",
+        "#FF8A3D",
+        "#FFF600"
+      ],
+      "references": [
+        {
+          "hex": "#35DB35",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#FFF600",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#FF8A3D",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#35DB35",
+          "file": "style/shell.css",
+          "line": 402
+        },
+        {
+          "hex": "#FFF600",
+          "file": "style/shell.css",
+          "line": 402
+        },
+        {
+          "hex": "#FF8A3D",
+          "file": "style/shell.css",
+          "line": 402
+        }
+      ]
+    },
+    "--ra-neon-soft": {
+      "hexCodes": [
+        "#97FBFF",
+        "#FFD19A"
+      ],
+      "references": [
+        {
+          "hex": "#97FBFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5029
+        },
+        {
+          "hex": "#FFD19A",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5029
+        },
+        {
+          "hex": "#97FBFF",
+          "file": "style/shell.css",
+          "line": 533
+        },
+        {
+          "hex": "#FFD19A",
+          "file": "style/shell.css",
+          "line": 533
+        }
+      ]
+    },
+    "--ra-orange": {
+      "hexCodes": [
+        "#35DB35",
+        "#FF8A3D",
+        "#FFF600"
+      ],
+      "references": [
+        {
+          "hex": "#35DB35",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#FFF600",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#FF8A3D",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#35DB35",
+          "file": "style/shell.css",
+          "line": 402
+        },
+        {
+          "hex": "#FFF600",
+          "file": "style/shell.css",
+          "line": 402
+        },
+        {
+          "hex": "#FF8A3D",
+          "file": "style/shell.css",
+          "line": 402
+        }
+      ]
+    },
+    "--ra-orange-light": {
+      "hexCodes": [
+        "#97FBFF",
+        "#FFD19A"
+      ],
+      "references": [
+        {
+          "hex": "#97FBFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5029
+        },
+        {
+          "hex": "#FFD19A",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5029
+        },
+        {
+          "hex": "#97FBFF",
+          "file": "style/shell.css",
+          "line": 533
+        },
+        {
+          "hex": "#FFD19A",
+          "file": "style/shell.css",
+          "line": 533
+        }
+      ]
+    },
+    "--ra-pine": {
+      "hexCodes": [
+        "#354839",
+        "#3A5663",
+        "#A9B7B8"
+      ],
+      "references": [
+        {
+          "hex": "#3A5663",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#A9B7B8",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#354839",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#3A5663",
+          "file": "style/shell.css",
+          "line": 404
+        },
+        {
+          "hex": "#A9B7B8",
+          "file": "style/shell.css",
+          "line": 404
+        },
+        {
+          "hex": "#354839",
+          "file": "style/shell.css",
+          "line": 404
+        }
+      ]
+    },
+    "--ra-screen": {
+      "hexCodes": [
+        "#192B30",
+        "#284348",
+        "#355E60"
+      ],
+      "references": [
+        {
+          "hex": "#192B30",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#284348",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#355E60",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#192B30",
+          "file": "style/shell.css",
+          "line": 532
+        },
+        {
+          "hex": "#284348",
+          "file": "style/shell.css",
+          "line": 532
+        },
+        {
+          "hex": "#355E60",
+          "file": "style/shell.css",
+          "line": 532
+        }
+      ]
+    },
+    "--ra-screen-glow": {
+      "hexCodes": [
+        "#192B30",
+        "#284348",
+        "#355E60"
+      ],
+      "references": [
+        {
+          "hex": "#192B30",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#284348",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#355E60",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#192B30",
+          "file": "style/shell.css",
+          "line": 532
+        },
+        {
+          "hex": "#284348",
+          "file": "style/shell.css",
+          "line": 532
+        },
+        {
+          "hex": "#355E60",
+          "file": "style/shell.css",
+          "line": 532
+        }
+      ]
+    },
+    "--ra-screen-mid": {
+      "hexCodes": [
+        "#192B30",
+        "#284348",
+        "#355E60"
+      ],
+      "references": [
+        {
+          "hex": "#192B30",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#284348",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#355E60",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5028
+        },
+        {
+          "hex": "#192B30",
+          "file": "style/shell.css",
+          "line": 532
+        },
+        {
+          "hex": "#284348",
+          "file": "style/shell.css",
+          "line": 532
+        },
+        {
+          "hex": "#355E60",
+          "file": "style/shell.css",
+          "line": 532
+        }
+      ]
+    },
+    "--ra-stone": {
+      "hexCodes": [
+        "#354839",
+        "#3A5663",
+        "#A9B7B8"
+      ],
+      "references": [
+        {
+          "hex": "#3A5663",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#A9B7B8",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#354839",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#3A5663",
+          "file": "style/shell.css",
+          "line": 404
+        },
+        {
+          "hex": "#A9B7B8",
+          "file": "style/shell.css",
+          "line": 404
+        },
+        {
+          "hex": "#354839",
+          "file": "style/shell.css",
+          "line": 404
+        }
+      ]
+    },
+    "--ra-storm": {
+      "hexCodes": [
+        "#354839",
+        "#3A5663",
+        "#A9B7B8"
+      ],
+      "references": [
+        {
+          "hex": "#3A5663",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#A9B7B8",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#354839",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4960
+        },
+        {
+          "hex": "#3A5663",
+          "file": "style/shell.css",
+          "line": 404
+        },
+        {
+          "hex": "#A9B7B8",
+          "file": "style/shell.css",
+          "line": 404
+        },
+        {
+          "hex": "#354839",
+          "file": "style/shell.css",
+          "line": 404
+        }
+      ]
+    },
+    "--ra-teal": {
+      "hexCodes": [
+        "#00FFFF",
+        "#1E90FF",
+        "#5A8580"
+      ],
+      "references": [
+        {
+          "hex": "#5A8580",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#00FFFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#1E90FF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4957
+        },
+        {
+          "hex": "#5A8580",
+          "file": "style/shell.css",
+          "line": 401
+        },
+        {
+          "hex": "#00FFFF",
+          "file": "style/shell.css",
+          "line": 401
+        },
+        {
+          "hex": "#1E90FF",
+          "file": "style/shell.css",
+          "line": 401
+        }
+      ]
+    },
+    "--ra-yellow": {
+      "hexCodes": [
+        "#35DB35",
+        "#FF8A3D",
+        "#FFF600"
+      ],
+      "references": [
+        {
+          "hex": "#35DB35",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#FFF600",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#FF8A3D",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4958
+        },
+        {
+          "hex": "#35DB35",
+          "file": "style/shell.css",
+          "line": 402
+        },
+        {
+          "hex": "#FFF600",
+          "file": "style/shell.css",
+          "line": 402
+        },
+        {
+          "hex": "#FF8A3D",
+          "file": "style/shell.css",
+          "line": 402
+        }
+      ]
+    },
+    "--red": {
+      "hexCodes": [
+        "#28150B33",
+        "#8A1930",
+        "#A70022",
+        "#DF1535"
+      ],
+      "references": [
+        {
+          "hex": "#DF1535",
+          "file": "style/bulletin_board_style.css",
+          "line": 690
+        },
+        {
+          "hex": "#DF1535",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#A70022",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#8A1930",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#28150B33",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        }
+      ]
+    },
+    "--red-dark": {
+      "hexCodes": [
+        "#28150B33",
+        "#8A1930",
+        "#A70022",
+        "#DF1535"
+      ],
+      "references": [
+        {
+          "hex": "#A70022",
+          "file": "style/bulletin_board_style.css",
+          "line": 691
+        },
+        {
+          "hex": "#DF1535",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#A70022",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#8A1930",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        },
+        {
+          "hex": "#28150B33",
+          "file": "style/bulletin_board_style.css",
+          "line": 2356
+        }
+      ]
+    },
+    "--s": {
+      "hexCodes": [
+        "#F8FAFC"
+      ],
+      "references": [
+        {
+          "hex": "#F8FAFC",
+          "file": "script/ourspace_design_widget.js",
+          "line": 107
+        },
+        {
+          "hex": "#F8FAFC",
+          "file": "script/bulletin_board_design_widget.js",
+          "line": 78
+        },
+        {
+          "hex": "#F8FAFC",
+          "file": "script/design-widget.js",
+          "line": 282
+        }
+      ]
+    },
+    "--screen": {
+      "hexCodes": [
+        "#13231E"
+      ],
+      "references": [
+        {
+          "hex": "#13231E",
+          "file": "style/record_player_style.css",
+          "line": 947
+        }
+      ]
+    },
+    "--screen-2": {
+      "hexCodes": [
+        "#20372E"
+      ],
+      "references": [
+        {
+          "hex": "#20372E",
+          "file": "style/record_player_style.css",
+          "line": 948
+        }
+      ]
+    },
+    "--secondary": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4255
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/profile_modules_style.css",
+          "line": 16
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/onyx_widget_style.css",
+          "line": 5608
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/links_module_style.css",
+          "line": 16
+        }
+      ]
+    },
+    "--secondary-bg": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1430
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1732
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 611
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 835
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 611
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 835
+        }
+      ]
+    },
+    "--secondary-border": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1734
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 837
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 837
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1734
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-audio.css",
+          "line": 667
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-feed.css",
+          "line": 1795
+        }
+      ]
+    },
+    "--secondary-fg": {
+      "hexCodes": [
+        "#000000"
+      ],
+      "references": [
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1431
+        },
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1733
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-william.css",
+          "line": 612
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-william.css",
+          "line": 836
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 612
+        },
+        {
+          "hex": "#000000",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 836
+        }
+      ]
+    },
+    "--selected": {
+      "hexCodes": [
+        "#B1D0F0"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1432
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1735
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-william.css",
+          "line": 613
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-william.css",
+          "line": 838
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 613
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 838
+        }
+      ]
+    },
+    "--shadow": {
+      "hexCodes": [
+        "#0000001F",
+        "#00000047",
+        "#0000004C",
+        "#0000006B",
+        "#0000007A",
+        "#0033992E",
+        "#0033996B",
+        "#0046461F",
+        "#102C3E",
+        "#13263E20",
+        "#144E88",
+        "#16818F",
+        "#182F41",
+        "#1A2E4422",
+        "#1D589C1C",
+        "#213954",
+        "#241A1560",
+        "#28150B33",
+        "#285D9E1C",
+        "#3366992E",
+        "#56697C",
+        "#6FAAE7",
+        "#8A1930",
+        "#A5E4EC",
+        "#A70022",
+        "#D0DEEB",
+        "#DF1535",
+        "#F6D16A",
+        "#F8FBFF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#00000047",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 70
+        },
+        {
+          "hex": "#0046461F",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 84
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3197
+        },
+        {
+          "hex": "#1D589C1C",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3197
+        },
+        {
+          "hex": "#3366992E",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 41
+        },
+        {
+          "hex": "#0033992E",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 72
+        }
+      ]
+    },
+    "--shared-cyan-100": {
+      "hexCodes": [
+        "#B1D0F0"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 26
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 26
+        }
+      ]
+    },
+    "--shared-cyan-112": {
+      "hexCodes": [
+        "#20FFFF"
+      ],
+      "references": [
+        {
+          "hex": "#20FFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 25
+        },
+        {
+          "hex": "#20FFFF",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 25
+        }
+      ]
+    },
+    "--shared-cyan-125": {
+      "hexCodes": [
+        "#40FFFF"
+      ],
+      "references": [
+        {
+          "hex": "#40FFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 24
+        },
+        {
+          "hex": "#40FFFF",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 24
+        }
+      ]
+    },
+    "--shared-cyan-20": {
+      "hexCodes": [
+        "#003333"
+      ],
+      "references": [
+        {
+          "hex": "#003333",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 29
+        },
+        {
+          "hex": "#003333",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 29
+        }
+      ]
+    },
+    "--shared-cyan-40": {
+      "hexCodes": [
+        "#006666"
+      ],
+      "references": [
+        {
+          "hex": "#006666",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 28
+        },
+        {
+          "hex": "#006666",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 28
+        }
+      ]
+    },
+    "--shared-cyan-60": {
+      "hexCodes": [
+        "#009999"
+      ],
+      "references": [
+        {
+          "hex": "#009999",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 27
+        },
+        {
+          "hex": "#009999",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 27
+        }
+      ]
+    },
+    "--sidebar": {
+      "hexCodes": [
+        "#13263E20",
+        "#213954",
+        "#56697C",
+        "#D0DEEB",
+        "#F8FBFF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#F8FBFF",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#213954",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#D0DEEB",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#56697C",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#13263E20",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        }
+      ]
+    },
+    "--status-lightest": {
+      "hexCodes": [
+        "#193655",
+        "#EAF4FF",
+        "#F1F5FF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 30
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 60
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1566
+        },
+        {
+          "hex": "#F1F5FF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        },
+        {
+          "hex": "#193655",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        }
+      ]
+    },
+    "--stone": {
+      "hexCodes": [
+        "#161616",
+        "#F2F2F2"
+      ],
+      "references": [
+        {
+          "hex": "#F2F2F2",
+          "file": "style/ourspace-dbt-standalone.css",
+          "line": 568
+        },
+        {
+          "hex": "#F2F2F2",
+          "file": "style/ourspace-dbt-standalone.css",
+          "line": 574
+        },
+        {
+          "hex": "#161616",
+          "file": "style/ourspace-dbt-standalone.css",
+          "line": 579
+        },
+        {
+          "hex": "#F2F2F2",
+          "file": "style/ourspace-final-skills.css",
+          "line": 460
+        },
+        {
+          "hex": "#F2F2F2",
+          "file": "style/ourspace-final-skills.css",
+          "line": 465
+        },
+        {
+          "hex": "#161616",
+          "file": "style/ourspace-final-skills.css",
+          "line": 469
+        }
+      ]
+    },
+    "--storm-cyan": {
+      "hexCodes": [
+        "#B1D0F0",
+        "#D3D6D1"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1718
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-william.css",
+          "line": 821
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 821
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1718
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/page-audio.css",
+          "line": 651
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/page-feed.css",
+          "line": 1779
+        }
+      ]
+    },
+    "--storm-orange": {
+      "hexCodes": [
+        "#6699CC",
+        "#C5A16B"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1719
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-william.css",
+          "line": 822
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 822
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1719
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-audio.css",
+          "line": 652
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/page-feed.css",
+          "line": 1780
+        }
+      ]
+    },
+    "--subbar-height": {
+      "hexCodes": [
+        "#121819",
+        "#173A66",
+        "#2682C2",
+        "#35DB35",
+        "#397BB4",
+        "#3A5663",
+        "#5A8580",
+        "#77C9FF",
+        "#B4E1FF",
+        "#D1FDFF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#77C9FF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4955
+        },
+        {
+          "hex": "#397BB4",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4955
+        },
+        {
+          "hex": "#173A66",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4955
+        },
+        {
+          "hex": "#2682C2",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4955
+        },
+        {
+          "hex": "#B4E1FF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4955
+        },
+        {
+          "hex": "#5A8580",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5077
+        }
+      ]
+    },
+    "--surface": {
+      "hexCodes": [
+        "#000000",
+        "#002323",
+        "#1C3555",
+        "#E6F1FF",
+        "#F1F7FF",
+        "#F3F8FF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#002323",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 43
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 77
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2619
+        },
+        {
+          "hex": "#1C3555",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2640
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3194
+        },
+        {
+          "hex": "#F1F7FF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3194
+        }
+      ]
+    },
+    "--surface-2": {
+      "hexCodes": [
+        "#003333",
+        "#274765",
+        "#E6F1FF",
+        "#EFF4FA",
+        "#F1F7FF",
+        "#F3F7FC",
+        "#F3F8FF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#003333",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 44
+        },
+        {
+          "hex": "#EFF4FA",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2620
+        },
+        {
+          "hex": "#274765",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2641
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3194
+        },
+        {
+          "hex": "#F1F7FF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3194
+        },
+        {
+          "hex": "#E6F1FF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3194
+        }
+      ]
+    },
+    "--surface-3": {
+      "hexCodes": [
+        "#004848",
+        "#173653",
+        "#315779",
+        "#53718D",
+        "#D5E8FB",
+        "#E6F1FF",
+        "#E9F3FF",
+        "#F1F7FF",
+        "#F3F7FC",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#004848",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 45
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2621
+        },
+        {
+          "hex": "#315779",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2642
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3194
+        },
+        {
+          "hex": "#F1F7FF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3194
+        },
+        {
+          "hex": "#E6F1FF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3194
+        }
+      ]
+    },
+    "--surface2": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1412
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1704
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 593
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 807
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 593
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 807
+        }
+      ]
+    },
+    "--teal": {
+      "hexCodes": [
+        "#00FFFF",
+        "#102C3E",
+        "#128C9F",
+        "#144E88",
+        "#16818F",
+        "#182F41",
+        "#1A2E4422",
+        "#A5E4EC",
+        "#F6D16A",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#00FFFF",
+          "file": "style/ourspace-dbt-standalone.css",
+          "line": 711
+        },
+        {
+          "hex": "#128C9F",
+          "file": "style/ourspace-dbt-standalone.css",
+          "line": 1228
+        },
+        {
+          "hex": "#00FFFF",
+          "file": "style/ourspace-final-skills.css",
+          "line": 572
+        },
+        {
+          "hex": "#128C9F",
+          "file": "style/ourspace-final-skills.css",
+          "line": 980
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-skills.css",
+          "line": 2074
+        },
+        {
+          "hex": "#182F41",
+          "file": "style/ourspace-final-skills.css",
+          "line": 2074
+        }
+      ]
+    },
+    "--text": {
+      "hexCodes": [
+        "#000000",
+        "#15304F",
+        "#173653",
+        "#18324F",
+        "#1A334E",
+        "#243950",
+        "#4F6782",
+        "#53718D",
+        "#90B7E6",
+        "#CADBF0",
+        "#E9F3FF",
+        "#EEF4FF",
+        "#F7FBFF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#1A334E",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2622
+        },
+        {
+          "hex": "#F7FBFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2643
+        },
+        {
+          "hex": "#15304F",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3195
+        },
+        {
+          "hex": "#4F6782",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3195
+        },
+        {
+          "hex": "#CADBF0",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3195
+        },
+        {
+          "hex": "#90B7E6",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 3195
+        }
+      ]
+    },
+    "--text-darkest": {
+      "hexCodes": [
+        "#000000",
+        "#003399",
+        "#193655",
+        "#243950",
+        "#EAF4FF",
+        "#F1F5FF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 32
+        },
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 62
+        },
+        {
+          "hex": "#000000",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1567
+        },
+        {
+          "hex": "#F1F5FF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        },
+        {
+          "hex": "#193655",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        }
+      ]
+    },
+    "--text-lightest": {
+      "hexCodes": [
+        "#193655",
+        "#EAF4FF",
+        "#F1F5FF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 31
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 61
+        },
+        {
+          "hex": "#F1F5FF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        },
+        {
+          "hex": "#193655",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2469
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 31
+        }
+      ]
+    },
+    "--text-primary": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4265
+        },
+        {
+          "hex": "#243950",
+          "file": "style/profile_modules_style.css",
+          "line": 26
+        },
+        {
+          "hex": "#243950",
+          "file": "style/onyx_widget_style.css",
+          "line": 5618
+        },
+        {
+          "hex": "#243950",
+          "file": "style/links_module_style.css",
+          "line": 26
+        }
+      ]
+    },
+    "--text1": {
+      "hexCodes": [
+        "#000000"
+      ],
+      "references": [
+        {
+          "hex": "#000000",
+          "file": "style/page-feed.css",
+          "line": 1043
+        }
+      ]
+    },
+    "--text2": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/page-feed.css",
+          "line": 1044
+        }
+      ]
+    },
+    "--text3": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-feed.css",
+          "line": 1045
+        }
+      ]
+    },
+    "--textborder1": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-feed.css",
+          "line": 1046
+        }
+      ]
+    },
+    "--textborder2": {
+      "hexCodes": [
+        "#000000"
+      ],
+      "references": [
+        {
+          "hex": "#000000",
+          "file": "style/page-feed.css",
+          "line": 1047
+        }
+      ]
+    },
+    "--textborder3": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/page-feed.css",
+          "line": 1048
+        }
+      ]
+    },
+    "--topbar": {
+      "hexCodes": [
+        "#13263E20",
+        "#213954",
+        "#56697C",
+        "#D0DEEB",
+        "#F8FBFF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#F8FBFF",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#213954",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#D0DEEB",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#56697C",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        },
+        {
+          "hex": "#13263E20",
+          "file": "style/ourspace-final-modules-layout.css",
+          "line": 23
+        }
+      ]
+    },
+    "--topbar-height": {
+      "hexCodes": [
+        "#121819",
+        "#35DB35",
+        "#3A5663",
+        "#5A8580",
+        "#D1FDFF",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#5A8580",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5077
+        },
+        {
+          "hex": "#5A8580",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5077
+        },
+        {
+          "hex": "#121819",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5077
+        },
+        {
+          "hex": "#121819",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5077
+        },
+        {
+          "hex": "#D1FDFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5077
+        },
+        {
+          "hex": "#D1FDFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 5077
+        }
+      ]
+    },
+    "--ui-border": {
+      "hexCodes": [
+        "#718AAB",
+        "#8BA8C4"
+      ],
+      "references": [
+        {
+          "hex": "#8BA8C4",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2757
+        },
+        {
+          "hex": "#718AAB",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2774
+        },
+        {
+          "hex": "#8BA8C4",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2090
+        },
+        {
+          "hex": "#718AAB",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2107
+        },
+        {
+          "hex": "#8BA8C4",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4693
+        },
+        {
+          "hex": "#718AAB",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4707
+        }
+      ]
+    },
+    "--ui-canvas": {
+      "hexCodes": [
+        "#101A2B",
+        "#E8EDF4"
+      ],
+      "references": [
+        {
+          "hex": "#E8EDF4",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2750
+        },
+        {
+          "hex": "#101A2B",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2767
+        },
+        {
+          "hex": "#E8EDF4",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2083
+        },
+        {
+          "hex": "#101A2B",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2100
+        },
+        {
+          "hex": "#E8EDF4",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4686
+        },
+        {
+          "hex": "#101A2B",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4700
+        }
+      ]
+    },
+    "--ui-cyan": {
+      "hexCodes": [
+        "#005DA8",
+        "#0285A7",
+        "#182036",
+        "#526179",
+        "#C9D3E2",
+        "#F4F7FB"
+      ],
+      "references": [
+        {
+          "hex": "#182036",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#526179",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#C9D3E2",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#F4F7FB",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#0285A7",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#005DA8",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        }
+      ]
+    },
+    "--ui-darkest": {
+      "hexCodes": [
+        "#003399",
+        "#126BB9",
+        "#315CA8",
+        "#336699",
+        "#83AAD4"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 33
+        },
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 63
+        },
+        {
+          "hex": "#315CA8",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2470
+        },
+        {
+          "hex": "#83AAD4",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2470
+        },
+        {
+          "hex": "#336699",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 33
+        },
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 63
+        }
+      ]
+    },
+    "--ui-edge": {
+      "hexCodes": [
+        "#005DA8",
+        "#0285A7",
+        "#182036",
+        "#526179",
+        "#C9D3E2",
+        "#F4F7FB"
+      ],
+      "references": [
+        {
+          "hex": "#182036",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#526179",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#C9D3E2",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#F4F7FB",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#0285A7",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#005DA8",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        }
+      ]
+    },
+    "--ui-focus": {
+      "hexCodes": [
+        "#005DA8",
+        "#0285A7",
+        "#182036",
+        "#526179",
+        "#BF5D16",
+        "#C9D3E2",
+        "#F4F7FB",
+        "#FFBF70"
+      ],
+      "references": [
+        {
+          "hex": "#BF5D16",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2761
+        },
+        {
+          "hex": "#FFBF70",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2778
+        },
+        {
+          "hex": "#BF5D16",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2094
+        },
+        {
+          "hex": "#FFBF70",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2111
+        },
+        {
+          "hex": "#BF5D16",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4697
+        },
+        {
+          "hex": "#FFBF70",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4711
+        }
+      ]
+    },
+    "--ui-header": {
+      "hexCodes": [
+        "#003399",
+        "#101F39"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2753
+        },
+        {
+          "hex": "#101F39",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2770
+        },
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2086
+        },
+        {
+          "hex": "#101F39",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2103
+        },
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4689
+        },
+        {
+          "hex": "#101F39",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4703
+        }
+      ]
+    },
+    "--ui-header-light": {
+      "hexCodes": [
+        "#243C61",
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2754
+        },
+        {
+          "hex": "#243C61",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2771
+        },
+        {
+          "hex": "#336699",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2087
+        },
+        {
+          "hex": "#243C61",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2104
+        },
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4690
+        },
+        {
+          "hex": "#243C61",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4704
+        }
+      ]
+    },
+    "--ui-ink": {
+      "hexCodes": [
+        "#005DA8",
+        "#0285A7",
+        "#182036",
+        "#1D3048",
+        "#526179",
+        "#C9D3E2",
+        "#F0F5FD",
+        "#F4F7FB"
+      ],
+      "references": [
+        {
+          "hex": "#1D3048",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2755
+        },
+        {
+          "hex": "#F0F5FD",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2772
+        },
+        {
+          "hex": "#1D3048",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2088
+        },
+        {
+          "hex": "#F0F5FD",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2105
+        },
+        {
+          "hex": "#1D3048",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4691
+        },
+        {
+          "hex": "#F0F5FD",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4705
+        }
+      ]
+    },
+    "--ui-input": {
+      "hexCodes": [
+        "#152338",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2759
+        },
+        {
+          "hex": "#152338",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2776
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2092
+        },
+        {
+          "hex": "#152338",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2109
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4695
+        },
+        {
+          "hex": "#152338",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4709
+        }
+      ]
+    },
+    "--ui-input-ink": {
+      "hexCodes": [
+        "#172940",
+        "#F3F7FF"
+      ],
+      "references": [
+        {
+          "hex": "#172940",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2760
+        },
+        {
+          "hex": "#F3F7FF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2777
+        },
+        {
+          "hex": "#172940",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2093
+        },
+        {
+          "hex": "#F3F7FF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2110
+        },
+        {
+          "hex": "#172940",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4696
+        },
+        {
+          "hex": "#F3F7FF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4710
+        }
+      ]
+    },
+    "--ui-link": {
+      "hexCodes": [
+        "#003399",
+        "#BBD9FF"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2758
+        },
+        {
+          "hex": "#BBD9FF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2775
+        },
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2091
+        },
+        {
+          "hex": "#BBD9FF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2108
+        },
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4694
+        },
+        {
+          "hex": "#BBD9FF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4708
+        }
+      ]
+    },
+    "--ui-muted": {
+      "hexCodes": [
+        "#005DA8",
+        "#0285A7",
+        "#182036",
+        "#405972",
+        "#526179",
+        "#C9D3E2",
+        "#D0DCED",
+        "#F4F7FB"
+      ],
+      "references": [
+        {
+          "hex": "#405972",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2756
+        },
+        {
+          "hex": "#D0DCED",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2773
+        },
+        {
+          "hex": "#405972",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2089
+        },
+        {
+          "hex": "#D0DCED",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2106
+        },
+        {
+          "hex": "#405972",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4692
+        },
+        {
+          "hex": "#D0DCED",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4706
+        }
+      ]
+    },
+    "--ui-soft": {
+      "hexCodes": [
+        "#005DA8",
+        "#0285A7",
+        "#182036",
+        "#526179",
+        "#C9D3E2",
+        "#F4F7FB"
+      ],
+      "references": [
+        {
+          "hex": "#182036",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#526179",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#C9D3E2",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#F4F7FB",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#0285A7",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        },
+        {
+          "hex": "#005DA8",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4779
+        }
+      ]
+    },
+    "--ui-surface": {
+      "hexCodes": [
+        "#1D2B41",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2751
+        },
+        {
+          "hex": "#1D2B41",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2768
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2084
+        },
+        {
+          "hex": "#1D2B41",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2101
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4687
+        },
+        {
+          "hex": "#1D2B41",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4701
+        }
+      ]
+    },
+    "--ui-surface-raised": {
+      "hexCodes": [
+        "#263A53",
+        "#F4F8FC"
+      ],
+      "references": [
+        {
+          "hex": "#F4F8FC",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2752
+        },
+        {
+          "hex": "#263A53",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 2769
+        },
+        {
+          "hex": "#F4F8FC",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2085
+        },
+        {
+          "hex": "#263A53",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 2102
+        },
+        {
+          "hex": "#F4F8FC",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4688
+        },
+        {
+          "hex": "#263A53",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4702
+        }
+      ]
+    },
+    "--voice-background": {
+      "hexCodes": [
+        "#2C6650",
+        "#654383",
+        "#8D4665",
+        "#E6FFE9",
+        "#F6E6FF",
+        "#FFE6F0"
+      ],
+      "references": [
+        {
+          "hex": "#F6E6FF",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 39
+        },
+        {
+          "hex": "#654383",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 39
+        },
+        {
+          "hex": "#FFE6F0",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 40
+        },
+        {
+          "hex": "#8D4665",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 40
+        },
+        {
+          "hex": "#E6FFE9",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 41
+        },
+        {
+          "hex": "#2C6650",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 41
+        }
+      ]
+    },
+    "--voice-edge": {
+      "hexCodes": [
+        "#2C6650",
+        "#654383",
+        "#8D4665",
+        "#E6FFE9",
+        "#F6E6FF",
+        "#FFE6F0"
+      ],
+      "references": [
+        {
+          "hex": "#F6E6FF",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 39
+        },
+        {
+          "hex": "#654383",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 39
+        },
+        {
+          "hex": "#FFE6F0",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 40
+        },
+        {
+          "hex": "#8D4665",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 40
+        },
+        {
+          "hex": "#E6FFE9",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 41
+        },
+        {
+          "hex": "#2C6650",
+          "file": "style/onyx-chat-and-ui-integration.css",
+          "line": 41
+        }
+      ]
+    },
+    "--warm": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1738
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 841
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 841
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1738
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-audio.css",
+          "line": 671
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-feed.css",
+          "line": 1799
+        }
+      ]
+    },
+    "--warning": {
+      "hexCodes": [
+        "#FFE184"
+      ],
+      "references": [
+        {
+          "hex": "#FFE184",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 55
+        },
+        {
+          "hex": "#FFE184",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 55
+        }
+      ]
+    },
+    "--white": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 294
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/onyx_widget_style.css",
+          "line": 381
+        }
+      ]
+    },
+    "--william-blue-100": {
+      "hexCodes": [
+        "#1E90FF"
+      ],
+      "references": [
+        {
+          "hex": "#1E90FF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 20
+        },
+        {
+          "hex": "#1E90FF",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 20
+        }
+      ]
+    },
+    "--william-blue-112": {
+      "hexCodes": [
+        "#3A9EFF"
+      ],
+      "references": [
+        {
+          "hex": "#3A9EFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 19
+        },
+        {
+          "hex": "#3A9EFF",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 19
+        }
+      ]
+    },
+    "--william-blue-125": {
+      "hexCodes": [
+        "#56ACFF"
+      ],
+      "references": [
+        {
+          "hex": "#56ACFF",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 18
+        },
+        {
+          "hex": "#56ACFF",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 18
+        }
+      ]
+    },
+    "--william-blue-20": {
+      "hexCodes": [
+        "#061D33"
+      ],
+      "references": [
+        {
+          "hex": "#061D33",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 23
+        },
+        {
+          "hex": "#061D33",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 23
+        }
+      ]
+    },
+    "--william-blue-40": {
+      "hexCodes": [
+        "#0C3A66"
+      ],
+      "references": [
+        {
+          "hex": "#0C3A66",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 22
+        },
+        {
+          "hex": "#0C3A66",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 22
+        }
+      ]
+    },
+    "--william-blue-60": {
+      "hexCodes": [
+        "#125699"
+      ],
+      "references": [
+        {
+          "hex": "#125699",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 21
+        },
+        {
+          "hex": "#125699",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 21
+        }
+      ]
+    },
+    "--william-green-100": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 14
+        },
+        {
+          "hex": "#336699",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 14
+        }
+      ]
+    },
+    "--william-green-112": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 13
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 13
+        }
+      ]
+    },
+    "--william-green-125": {
+      "hexCodes": [
+        "#6699CC"
+      ],
+      "references": [
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 12
+        },
+        {
+          "hex": "#6699CC",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 12
+        }
+      ]
+    },
+    "--william-green-20": {
+      "hexCodes": [
+        "#0A290A"
+      ],
+      "references": [
+        {
+          "hex": "#0A290A",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 17
+        },
+        {
+          "hex": "#0A290A",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 17
+        }
+      ]
+    },
+    "--william-green-40": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 16
+        },
+        {
+          "hex": "#243950",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 16
+        }
+      ]
+    },
+    "--william-green-60": {
+      "hexCodes": [
+        "#003399"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-william-journal.css",
+          "line": 15
+        },
+        {
+          "hex": "#003399",
+          "file": "style/journal-diary-jasper-journal.css",
+          "line": 15
+        }
+      ]
+    },
+    "--wood-dark": {
+      "hexCodes": [
+        "#36251A"
+      ],
+      "references": [
+        {
+          "hex": "#36251A",
+          "file": "style/record_player_style.css",
+          "line": 941
+        }
+      ]
+    },
+    "--wood-light": {
+      "hexCodes": [
+        "#AB805A"
+      ],
+      "references": [
+        {
+          "hex": "#AB805A",
+          "file": "style/record_player_style.css",
+          "line": 943
+        }
+      ]
+    },
+    "--wood-mid": {
+      "hexCodes": [
+        "#765138"
+      ],
+      "references": [
+        {
+          "hex": "#765138",
+          "file": "style/record_player_style.css",
+          "line": 942
+        }
+      ]
+    },
+    "--work-active": {
+      "hexCodes": [
+        "#B1D0F0"
+      ],
+      "references": [
+        {
+          "hex": "#B1D0F0",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4050
+        },
+        {
+          "hex": "#B1D0F0",
+          "file": "style/onyx_widget_style.css",
+          "line": 5350
+        }
+      ]
+    },
+    "--work-button": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4048
+        },
+        {
+          "hex": "#336699",
+          "file": "style/onyx_widget_style.css",
+          "line": 5348
+        }
+      ]
+    },
+    "--work-button-hover": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4049
+        },
+        {
+          "hex": "#336699",
+          "file": "style/onyx_widget_style.css",
+          "line": 5349
+        }
+      ]
+    },
+    "--work-chat": {
+      "hexCodes": [
+        "#003399"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4044
+        },
+        {
+          "hex": "#003399",
+          "file": "style/onyx_widget_style.css",
+          "line": 5344
+        }
+      ]
+    },
+    "--work-focus": {
+      "hexCodes": [
+        "#F3F7FC"
+      ],
+      "references": [
+        {
+          "hex": "#F3F7FC",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4054
+        },
+        {
+          "hex": "#F3F7FC",
+          "file": "style/onyx_widget_style.css",
+          "line": 5354
+        }
+      ]
+    },
+    "--work-header": {
+      "hexCodes": [
+        "#003399"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4041
+        },
+        {
+          "hex": "#003399",
+          "file": "style/onyx_widget_style.css",
+          "line": 5341
+        }
+      ]
+    },
+    "--work-input": {
+      "hexCodes": [
+        "#003399"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4047
+        },
+        {
+          "hex": "#003399",
+          "file": "style/onyx_widget_style.css",
+          "line": 5347
+        }
+      ]
+    },
+    "--work-link": {
+      "hexCodes": [
+        "#F3F7FC"
+      ],
+      "references": [
+        {
+          "hex": "#F3F7FC",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4051
+        },
+        {
+          "hex": "#F3F7FC",
+          "file": "style/onyx_widget_style.css",
+          "line": 5351
+        }
+      ]
+    },
+    "--work-link-hover": {
+      "hexCodes": [
+        "#D5E8FB"
+      ],
+      "references": [
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4052
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/onyx_widget_style.css",
+          "line": 5352
+        }
+      ]
+    },
+    "--work-muted": {
+      "hexCodes": [
+        "#D5E8FB"
+      ],
+      "references": [
+        {
+          "hex": "#D5E8FB",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4053
+        },
+        {
+          "hex": "#D5E8FB",
+          "file": "style/onyx_widget_style.css",
+          "line": 5353
+        }
+      ]
+    },
+    "--work-onyx": {
+      "hexCodes": [
+        "#003399"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4046
+        },
+        {
+          "hex": "#003399",
+          "file": "style/onyx_widget_style.css",
+          "line": 5346
+        }
+      ]
+    },
+    "--work-rail": {
+      "hexCodes": [
+        "#003399"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4043
+        },
+        {
+          "hex": "#003399",
+          "file": "style/onyx_widget_style.css",
+          "line": 5343
+        }
+      ]
+    },
+    "--work-scroll-thumb": {
+      "hexCodes": [
+        "#336699"
+      ],
+      "references": [
+        {
+          "hex": "#336699",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4056
+        },
+        {
+          "hex": "#336699",
+          "file": "style/onyx_widget_style.css",
+          "line": 5356
+        }
+      ]
+    },
+    "--work-scroll-track": {
+      "hexCodes": [
+        "#003399"
+      ],
+      "references": [
+        {
+          "hex": "#003399",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4055
+        },
+        {
+          "hex": "#003399",
+          "file": "style/onyx_widget_style.css",
+          "line": 5355
+        }
+      ]
+    },
+    "--work-tab": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4042
+        },
+        {
+          "hex": "#243950",
+          "file": "style/onyx_widget_style.css",
+          "line": 5342
+        }
+      ]
+    },
+    "--work-user": {
+      "hexCodes": [
+        "#243950"
+      ],
+      "references": [
+        {
+          "hex": "#243950",
+          "file": "style/ourspace-final-onyx.css",
+          "line": 4045
+        },
+        {
+          "hex": "#243950",
+          "file": "style/onyx_widget_style.css",
+          "line": 5345
+        }
+      ]
+    },
+    "--workspace-bg": {
+      "hexCodes": [
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-jasper-diary.css",
+          "line": 1707
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-william.css",
+          "line": 810
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-store-jasper.css",
+          "line": 810
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/journal-diary-william-diary.css",
+          "line": 1707
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-audio.css",
+          "line": 640
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/page-feed.css",
+          "line": 1768
+        }
+      ]
+    },
+    "--yellow": {
+      "hexCodes": [
+        "#102C3E",
+        "#144E88",
+        "#16818F",
+        "#182F41",
+        "#1A2E4422",
+        "#A5E4EC",
+        "#F6D16A",
+        "#FFF600",
+        "#FFFFFF"
+      ],
+      "references": [
+        {
+          "hex": "#FFF600",
+          "file": "style/ourspace-dbt-standalone.css",
+          "line": 713
+        },
+        {
+          "hex": "#FFF600",
+          "file": "style/ourspace-final-skills.css",
+          "line": 574
+        },
+        {
+          "hex": "#FFFFFF",
+          "file": "style/ourspace-final-skills.css",
+          "line": 2074
+        },
+        {
+          "hex": "#182F41",
+          "file": "style/ourspace-final-skills.css",
+          "line": 2074
+        },
+        {
+          "hex": "#16818F",
+          "file": "style/ourspace-final-skills.css",
+          "line": 2074
+        },
+        {
+          "hex": "#144E88",
+          "file": "style/ourspace-final-skills.css",
+          "line": 2074
+        }
+      ]
+    }
+  },
+  "statistics": {
+    "scannedSourceFiles": 419,
+    "filesContainingColorLiterals": 118,
+    "distinctHexColorsAcrossAllCategories": 2463,
+    "uniqueColorsPerCategory": {
+      "HUD & Site Colors": 1057,
+      "Folders & Playlists": 227,
+      "Module Accents": 1935
+    },
+    "moduleTypes": 13
+  }
+}
